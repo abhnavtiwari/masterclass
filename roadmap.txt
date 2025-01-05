@@ -1,0 +1,8 @@
+git init
+git remote add origin <URL>
+
+git add <filename> or use .
+git config --global user.name "set your profile name"
+git config --global user.email "set your git email address "
+git commit -m "Message"
+git push origin main (branch name)
